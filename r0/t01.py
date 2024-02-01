@@ -1,1 +1,5 @@
-..
+x = int(input())
+y = int(input())
+z = int(input())
+total_pay = (x + (12*y*z))
+print(total_pay)
